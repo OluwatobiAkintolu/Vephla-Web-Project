@@ -68,7 +68,7 @@ html {
 }
 
 .lp-image {
-    background-image: url(/IMAGES/backimage.jpeg);
+    background-image: url(./IMAGES/backimage.jpeg);
     height: 50em;
     width: 100%;
     margin: 0px;
